@@ -29,18 +29,5 @@
 7.  部署教程：https://blog.csdn.net/qq_57421630/article/details/130040548
 8.  项目后端版本：https://gitee.com/aniu-666/chat-gpt-website/tree/master/
 
-## 学习交流 
 
-### qq群号 ：799160455
 
-## 项目效果
-
-![示例图一](./%E9%A1%B9%E7%9B%AE%E7%A4%BA%E4%BE%8B%E5%9B%BE%E7%89%87%E4%B8%80.png)
-
----
-
-![示例图二](./%E9%A1%B9%E7%9B%AE%E7%A4%BA%E4%BE%8B%E5%9B%BE%E7%89%87%E4%BA%8C.png)
-
----
-
-![示例图三](./%E9%A1%B9%E7%9B%AE%E6%98%BE%E7%A4%BA%E5%9B%BE%E7%89%87%E4%B8%89.png)
